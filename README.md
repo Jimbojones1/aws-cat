@@ -34,13 +34,6 @@ This lesson will cover how to add this ability to your Django project should you
 
 This lesson's starter code picks up from the many-to-many models lesson.
 
-If your many-to-many code is working, you can continue working with that codebase, however, it is recommended that you work with the starter code provided with this lesson.
-
-```
-git fetch --all
-git reset --hard origin/main
-```
-
 **Be sure to be inside of the catcollector directory** before you open VS Code with `code .`.
 
 **Be sure that no other Django server is running!**
